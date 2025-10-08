@@ -1,3 +1,4 @@
 Daftar kontribusi:
-- [ ] Anggota 1 menambahkan satu baris teks di sini.
-- [ ] Anggota 2 menambahkan satu baris teks di sini.
+- [Amelia Futri ] Anggota 1 menambahkan satu baris teks di sini.
+- [Silmi Syahidatul Haq ] Anggota 2 menambahkan satu baris teks di sini.
+
